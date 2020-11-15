@@ -1,17 +1,3 @@
-"""
-Ustawienia django dla projektu "myblog".
-
-Wygenerowano automatycznie ze skryptu 'django-admin startproject' using Django 3.1.3.
-
-For more information on this file, see
-https://docs.djangoproject.com/en/3.1/topics/settings/
-
-For the full list of settings and their values, see
-https://docs.djangoproject.com/en/3.1/ref/settings/
-
-Zmodyfikowano Sterfę czasowa, język
-Dodano ścieżkę do plikow statycznych, hosta z przekierowaniem do pythonanywhere.com, i bazę danych
-"""
 import os
 from pathlib import Path
 
